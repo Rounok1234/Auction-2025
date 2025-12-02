@@ -1,0 +1,1110 @@
+[ 
+  {
+    "name": "REMAN UDDIN",
+    "batch": "2008",
+    "role": "DF",
+    "img": "images/1.jpg"
+  },
+  {
+    "name": "SUJON SIKDER",
+    "batch": "1999",
+    "role": "MID",
+    "img": "images/2.jpg"
+  },
+  {
+    "name": "MD ZIAUL HOQUE",
+    "batch": "2006",
+    "role": "DF",
+    "img": "images/3.jpg"
+  },
+  {
+    "name": "AJIT DEY",
+    "batch": "2002",
+    "role": "DF",
+    "img": "images/4.jpg"
+  },
+  {
+    "name": "S.TONI",
+    "batch": "2002",
+    "role": "MID",
+    "img": "images/5.jpg"
+  },
+  {
+    "name": "HARUNUR RASHID",
+    "batch": "2007",
+    "role": "ST",
+    "img": "images/6.jpg"
+  },
+  {
+    "name": "MD MUBARAK HOSSAN",
+    "batch": "2008",
+    "role": "ST",
+    "img": "images/7.jpg"
+  },
+  {
+    "name": "OMAR FARUK",
+    "batch": "2009",
+    "role": "DF",
+    "img": "images/8.jpg"
+  },
+  {
+    "name": "MD ELIAS",
+    "batch": "2007",
+    "role": "ST",
+    "img": "images/9.jpg"
+  },
+  {
+    "name": "KRISNA DEY ",
+    "batch": "2004",
+    "role": "MID",
+    "img": "images/10.jpg"
+  },
+  {
+    "name": "EMRAN UDDIN ",
+    "batch": "1997",
+    "role": "MID",
+    "img": "images/11.jpg"
+  },
+  {
+    "name": "KAZI AZHAR",
+    "batch": "2002",
+    "role": "GK",
+    "img": "images/12.jpg"
+  },
+
+  {
+    "name": "MD RONI",
+    "batch": "2007",
+    "role": "ST",
+    "img": "images/13.5.jpg"
+  },{
+    "name": "AZIZ ULLAH",
+    "batch": "2007",
+    "role": "ST",
+    "img": "images/13.jpg"
+  },
+
+  {
+    "name": "IBRAHIM MOVICE",
+    "batch": "2019",
+    "role": "GK",
+    "img": "images/14.jpg"
+  },
+  {
+    "name": "ERSHADUL ALAM ",
+    "batch": "2022",
+    "role": "GK",
+    "img": "images/15.jpg"
+  },
+  {
+    "name": "MD RAIHAN ",
+    "batch": "2021",
+    "role": "GK",
+    "img": "images/16.jpg"
+  },
+  {
+    "name": "TANIM",
+    "batch": "2016",
+    "role": "GK",
+    "img": "images/17.jpg"
+  },
+  {
+    "name": "MIRAZ ",
+    "batch": "2024",
+    "role": "GK",
+    "img": "images/18.jpg"
+  },
+  {
+    "name": "AKIB HOSSEN ",
+    "batch": "2025",
+    "role": "GK",
+    "img": "images/19.jpg"
+  },
+  {
+    "name": "MD RAHIM ",
+    "batch": "2022",
+    "role": "GK",
+    "img": "images/20.jpg"
+  },
+  {
+    "name": "MD JISHAN ",
+    "batch": "2023",
+    "role": "GK",
+    "img": "images/21.jpg"
+  },
+  {
+    "name": "EMDADUOL HOQUE EMON",
+    "batch": "2025",
+    "role": "GK",
+    "img": "images/22.jpg"
+  },
+  {
+    "name": "TUSHAR",
+    "batch": "2023",
+    "role": "GK",
+    "img": "images/23.jpg"
+  },
+  {
+    "name": "MD MORSHED",
+    "batch": "2024",
+    "role": "GK",
+    "img": "images/24.jpg"
+  },
+  {
+    "name": "SOHEL RANA",
+    "batch": "2016",
+    "role": "ST",
+    "img": "images/25.jpg"
+  },
+  {
+    "name": "KAZI SHAKIB ",
+    "batch": "2022",
+    "role": "ST",
+    "img": "images/26.jpg"
+  },
+  {
+    "name": "ROM JU ",
+    "batch": "2013",
+    "role": "ST",
+    "img": "images/27.jpg"
+  },
+  {
+    "name": "MOJAMMEL HOSSEN",
+    "batch": "2013",
+    "role": "ST",
+    "img": "images/28.jpg"
+  },
+  {
+    "name": "MAHFUJ TALUKDER",
+    "batch": "2022",
+    "role": "ST",
+    "img": "images/29.jpg"
+  },
+  {
+    "name": "YASIN ",
+    "batch": "2016",
+    "role": "ST",
+    "img": "images/30.jpg"
+  },
+  {
+    "name": "ARIF ",
+    "batch": "2016",
+    "role": "ST",
+    "img": "images/31.jpg"
+  },
+  {
+    "name": "FAHIM HASAN ",
+    "batch": "2021",
+    "role": "ST",
+    "img": "images/32.jpg"
+  },
+  {
+    "name": "JONAYED TALUKDER",
+    "batch": "2025",
+    "role": "ST",
+    "img": "images/33.jpg"
+  },
+  {
+    "name": "KAZI SHAHIN ",
+    "batch": "2018",
+    "role": "ST",
+    "img": "images/34.jpg"
+  },
+  {
+    "name": "RABIN CHOWDHURY ",
+    "batch": "2021",
+    "role": "ST",
+    "img": "images/35.jpg"
+  },
+  {
+    "name": "IFAZ MOZIDE",
+    "batch": "2021",
+    "role": "ST",
+    "img": "images/36.jpg"
+  },
+  {
+    "name": "NIYAZ UDDIN ",
+    "batch": "2022",
+    "role": "ST",
+    "img": "images/37.jpg"
+  },
+  {
+    "name": "SHAHADAT ",
+    "batch": "2024",
+    "role": "ST",
+    "img": "images/38.jpg"
+  },
+  {
+    "name": "AZIZUR RAHMAN ",
+    "batch": "2025",
+    "role": "ST",
+    "img": "images/39.jpg"
+  },
+  {
+    "name": "RAIHAN ",
+    "batch": "2018",
+    "role": "ST",
+    "img": "images/40.jpg"
+  },
+  {
+    "name": "MD SOHEL ",
+    "batch": "2023",
+    "role": "ST",
+    "img": "images/41.jpg"
+  },
+  {
+    "name": "MD AZIZ ",
+    "batch": "2025",
+    "role": "ST",
+    "img": "images/42.jpg"
+  },
+  {
+    "name": "MONNA DEY ",
+    "batch": "2023",
+    "role": "ST",
+    "img": "images/43.jpg"
+  },
+  {
+    "name": "MUKTER HOSSAIN ",
+    "batch": "2021",
+    "role": "ST",
+    "img": "images/44.jpg"
+  },
+  {
+    "name": "JWEL MAHMUD ",
+    "batch": "2023",
+    "role": "ST",
+    "img": "images/45.jpg"
+  },
+  {
+    "name": "IMTIAZ AHMED ",
+    "batch": "2024",
+    "role": "ST",
+    "img": "images/46.jpg"
+  },
+  {
+    "name": "RABIUL HASAN ",
+    "batch": "2024",
+    "role": "ST",
+    "img": "images/47.jpg"
+  },
+  {
+    "name": "SABBIR",
+    "batch": "2023",
+    "role": "ST",
+    "img": "images/49.jpg"
+  },
+  {
+    "name": "ALAM ",
+    "batch": "2022",
+    "role": "ST",
+    "img": "images/50.jpg"
+  },
+  {
+    "name": "RASHED ALAM ",
+    "batch": "2024",
+    "role": "ST",
+    "img": "images/51.jpg"
+  },
+  {
+    "name": "JOBAYER ",
+    "batch": "2025",
+    "role": "ST",
+    "img": "images/52.jpg"
+  },
+  {
+    "name": "TAREK AHMED ",
+    "batch": "2022",
+    "role": "ST",
+    "img": "images/53.jpg"
+  },
+  {
+    "name": "ABDULLAH AL MUSTAKIN ",
+    "batch": "2020",
+    "role": "ST",
+    "img": "images/54.jpg"
+  },
+  {
+    "name": "MOJAMMEL ",
+    "batch": "2021",
+    "role": "ST",
+    "img": "images/55.jpg"
+  },
+  {
+    "name": "SUJON DASH ",
+    "batch": "2025",
+    "role": "ST",
+    "img": "images/56.jpg"
+  },
+  {
+    "name": "MD RAMJAN",
+    "batch": "2025",
+    "role": "ST",
+    "img": "images/57.jpg"
+  },
+  {
+    "name": "SAJIB UDDIN ",
+    "batch": "2016",
+    "role": "ST",
+    "img": "images/58.jpg"
+  },
+  {
+    "name": "HASAN SAKIB",
+    "batch": "2020",
+    "role": "ST",
+    "img": "images/59.jpg"
+  },
+  {
+    "name": "JAHEDUL ISLAM SAYID",
+    "batch": "2023",
+    "role": "ST",
+    "img": "images/60.jpg"
+  },
+  {
+    "name": "ARSHAD ",
+    "batch": "2025",
+    "role": "ST",
+    "img": "images/61.jpg"
+  },
+  {
+    "name": "MD MUBARAK ",
+    "batch": "2023",
+    "role": "ST",
+    "img": "images/62.jpg"
+  },
+  {
+    "name": "NAJIM UDDIN ALKAS ",
+    "batch": "2014",
+    "role": "ST",
+    "img": "images/63.jpg"
+  },
+  {
+    "name": "RASHEL KANTI DEY ",
+    "batch": "2013",
+    "role": "ST",
+    "img": "images/64.jpg"
+  },
+  {
+    "name": " SAIFUL ISLAM ",
+    "batch": "2023",
+    "role": "MID",
+    "img": "images/65.jpg"
+  },
+  {
+    "name": "SUNJOY DEY ",
+    "batch": "2016",
+    "role": "MID",
+    "img": "images/66.jpg"
+  },
+  {
+    "name": " JISAN",
+    "batch": "2018",
+    "role": "MID",
+    "img": "images/67.jpg"
+  },
+  {
+    "name": " KAZI MORSHED",
+    "batch": "2025",
+    "role": "MID",
+    "img": "images/68.jpg"
+  },
+  {
+    "name": "MD BELAL UDDIN  ",
+    "batch": "2019",
+    "role": "MID",
+    "img": "images/69.jpg"
+  },
+  {
+    "name": " ABDUL ARIF ",
+    "batch": "2020",
+    "role": "MID",
+    "img": "images/70.jpg"
+  },
+  {
+    "name": " ASRAF SABBIR ",
+    "batch": "2020",
+    "role": "MID",
+    "img": "images/71.jpg"
+  },
+  {
+    "name": "JIHAN ",
+    "batch": "2021",
+    "role": "MID",
+    "img": "images/72.jpg"
+  },
+  {
+    "name": " MORSHED",
+    "batch": "2025",
+    "role": "MID",
+    "img": "images/73.jpg"
+  },
+  {
+    "name": "ARMAN JR ",
+    "batch": "2023",
+    "role": "MID",
+    "img": "images/74.jpg"
+  },
+  {
+    "name": "RAKIBUL HASAN ",
+    "batch": "2020",
+    "role": "MID",
+    "img": "images/75.jpg"
+  },
+  {
+    "name": "MD KORSHED ",
+    "batch": "2016",
+    "role": "MID",
+    "img": "images/76.jpg"
+  },
+  {
+    "name": " RAIHAN",
+    "batch": "2021",
+    "role": "MID",
+    "img": "images/77.jpg"
+  },
+  {
+    "name": "ZIAN HASAN ",
+    "batch": "2022",
+    "role": "MID",
+    "img": "images/78.jpg"
+  },
+  {
+    "name": "MD JAHEDUL ISLAM  ",
+    "batch": "2018",
+    "role": "MID",
+    "img": "images/79.jpg"
+  },
+  {
+    "name": "ABDUR RAHIM ",
+    "batch": "2021",
+    "role": "MID",
+    "img": "images/80.jpg"
+  },
+  {
+    "name": "MD IRFAN  ",
+    "batch": "2022",
+    "role": "MID",
+    "img": "images/81.jpg"
+  },
+  {
+    "name": " RASHED ",
+    "batch": "2018",
+    "role": "MID",
+    "img": "images/82.jpg"
+  },
+  {
+    "name": " ANISUR RAHMAN SOJIB",
+    "batch": "2025",
+    "role": "MID",
+    "img": "images/83.jpg"
+  },
+  {
+    "name": "ASIF SIKDER ",
+    "batch": "2021",
+    "role": "MID",
+    "img": "images/84.jpg"
+  },
+  {
+    "name": " RUPON",
+    "batch": "2014",
+    "role": "MID",
+    "img": "images/85.jpg"
+  },
+  {
+    "name": "SHAHIN ",
+    "batch": "2024",
+    "role": "MID",
+    "img": "images/86.jpg"
+  },
+  {
+    "name": " TAREK ",
+    "batch": "2020",
+    "role": "MID",
+    "img": "images/88.jpg"
+  },
+  {
+    "name": "MD FAISAL ",
+    "batch": "2021",
+    "role": "MID",
+    "img": "images/89.jpg"
+  },
+  {
+    "name": "MOJAMEL HOSSEN  ",
+    "batch": "2023",
+    "role": "MID",
+    "img": "images/90.jpg"
+  },
+  {
+    "name": "HASAN ",
+    "batch": "2023",
+    "role": "MID",
+    "img": "images/91.jpg"
+  },
+  {
+    "name": " BIPLOB",
+    "batch": "2021",
+    "role": "MID",
+    "img": "images/92.jpg"
+  },
+  {
+    "name": " ARMAN HOSSAIN",
+    "batch": "2022",
+    "role": "MID",
+    "img": "images/93.jpg"
+  },
+  {
+    "name": " IMRAN CHOWDHURY ",
+    "batch": "2020",
+    "role": "MID",
+    "img": "images/94.jpg"
+  },
+  {
+    "name": " NASIR UDDIN ",
+    "batch": "2021",
+    "role": "MID",
+    "img": "images/95.jpg"
+  },
+  {
+    "name": " M. FARUQUL ISLAM",
+    "batch": "2018",
+    "role": "MID",
+    "img": "images/96.jpg"
+  },
+  {
+    "name": " MD IBRAHIM",
+    "batch": "2018",
+    "role": "MID",
+    "img": "images/97.jpg"
+  },
+  {
+    "name": "HABIBUR RAHMAN  ",
+    "batch": "2020",
+    "role": "MID",
+    "img": "images/98.jpg"
+  },
+  {
+    "name": "JIADUR AHSAN NAFI ",
+    "batch": "2024",
+    "role": "MID",
+    "img": "images/99.jpg"
+  },
+  {
+    "name": "OHIE ",
+    "batch": "2019",
+    "role": "MID",
+    "img": "images/100.jpg"
+  },
+  
+  {
+    "name": "ISRAFIL HOSSAIN ISAL  ",
+    "batch": "2024",
+    "role": "MID",
+    "img": "images/102.jpg"
+  },
+  {
+    "name": "SHAKIB UDDIN  ",
+    "batch": "2022",
+    "role": "MID",
+    "img": "images/103.jpg"
+  },
+  {
+    "name": " KAZI ROMAN ",
+    "batch": "2023",
+    "role": "MID",
+    "img": "images/104.jpg"
+  },
+  {
+    "name": "TAHASIN BIN IMAM  ",
+    "batch": "2022",
+    "role": "MID",
+    "img": "images/105.jpg"
+  },
+  {
+    "name": "  MAHIN ",
+    "batch": "2024",
+    "role": "MID",
+    "img": "images/106.jpg"
+  },
+  {
+    "name": " T. SAIMON",
+    "batch": "2021",
+    "role": "MID",
+    "img": "images/107.jpg"
+  },
+  {
+    "name": " SAEID AHMED ",
+    "batch": "2021",
+    "role": "MID",
+    "img": "images/108.jpg"
+  },
+  {
+    "name": " MD ELIAS ",
+    "batch": "2022",
+    "role": "MID",
+    "img": "images/109.jpg"
+  },
+  {
+    "name": " TAMIM IQBAL ",
+    "batch": "2023",
+    "role": "MID",
+    "img": "images/110.jpg"
+  },
+  {
+    "name": " ARIF RIFAT ",
+    "batch": "2019",
+    "role": "MID",
+    "img": "images/111.jpg"
+  },
+  {
+    "name": " MD EMON",
+    "batch": "2024",
+    "role": "MID",
+    "img": "images/112.jpg"
+  },
+  {
+    "name": "MOHIN UDDIN  ",
+    "batch": "2019",
+    "role": "MID",
+    "img": "images/113.jpg"
+  },
+  {
+    "name": "NAHID KHANDAKAR ",
+    "batch": "2021",
+    "role": "MID",
+    "img": "images/114.jpg"
+  },
+  {
+    "name": " JABED HOSSEN ",
+    "batch": "2019",
+    "role": "MID",
+    "img": "images/115.jpg"
+  },
+  {
+    "name": " AB NABIL",
+    "batch": "2021",
+    "role": "MID",
+    "img": "images/116.jpg"
+  },
+  {
+    "name": " ASIF",
+    "batch": "2021",
+    "role": "MID",
+    "img": "images/117.jpg"
+  },
+  {
+    "name": " MD TAREK",
+    "batch": "2023",
+    "role": "MID",
+    "img": "images/118.jpg"
+  },
+  {
+    "name": " MIR NASIR JIHAD",
+    "batch": "2021",
+    "role": "MID",
+    "img": "images/119.jpg"
+  },
+  {
+    "name": " SAYMON",
+    "batch": "2020",
+    "role": "MID",
+    "img": "images/120.jpg"
+  },
+  {
+    "name": "RAHI ",
+    "batch": "2019",
+    "role": "MID",
+    "img": "images/121.jpg"
+  },
+  {
+    "name": "SAIFO  ",
+    "batch": "2023",
+    "role": "MID",
+    "img": "images/122.jpg"
+  },
+  {
+    "name": " MD SAIMON HASAN ",
+    "batch": "2023",
+    "role": "MID",
+    "img": "images/124.jpg"
+  },
+  {
+    "name": " JAMAL UDDIN ",
+    "batch": "2011",
+    "role": "MID",
+    "img": "images/125.jpg"
+  },
+  {
+    "name": " MD MUBARAK ",
+    "batch": "2021",
+    "role": "MID",
+    "img": "images/126.jpg"
+  },
+  {
+    "name": "SAIMON  ",
+    "batch": "2024",
+    "role": "MID",
+    "img": "images/127.jpg"
+  },
+  {
+    "name": " MIZANUR RAHMAN",
+    "batch": "2018",
+    "role": "MID",
+    "img": "images/128.jpg"
+  },
+  {
+    "name": " MD MASUD",
+    "batch": "2023",
+    "role": "DF",
+    "img": "images/129.jpg"
+  },
+  {
+    "name": " EMTEAZ HOSSAIN TOPU",
+    "batch": "2021",
+    "role": "DF",
+    "img": "images/130.jpg"
+  },
+  {
+    "name": " MD AUPO",
+    "batch": "2025",
+    "role": "DF",
+    "img": "images/131.jpg"
+  },
+  {
+    "name": "JUBAIR TALUKDER ",
+    "batch": "2021",
+    "role": "DF",
+    "img": "images/132.jpg"
+  },
+  {
+    "name": " SIFATUL HASAN",
+    "batch": "2024",
+    "role": "DF",
+    "img": "images/133.jpg"
+  },
+  {
+    "name": " SAYMON ALAMGIR",
+    "batch": "2015",
+    "role": "DF",
+    "img": "images/134.jpg"
+  },
+  {
+    "name": " MARUF",
+    "batch": "2025",
+    "role": "DF",
+    "img": "images/135.jpg"
+  },
+  {
+    "name": "EMAM HOSEN TOPU ",
+    "batch": "2020",
+    "role": "DF",
+    "img": "images/136.jpg"
+  },
+  {
+    "name": " ERSHAD RAJA ",
+    "batch": "2024",
+    "role": "DF",
+    "img": "images/137.jpg"
+  },
+  {
+    "name": " AMIN",
+    "batch": "2020",
+    "role": "DF",
+    "img": "images/138.jpg"
+  },
+  {
+    "name": " ARIF ISTIAK ",
+    "batch": "2014",
+    "role": "DF",
+    "img": "images/139.jpg"
+  },
+  {
+    "name": "MD SABBIR  ",
+    "batch": "2022",
+    "role": "DF",
+    "img": "images/140.jpg"
+  },
+  {
+    "name": "MD RAKIB  ",
+    "batch": "2O20",
+    "role": "DF",
+    "img": "images/141.jpg"
+  },
+  {
+    "name": " TIPU",
+    "batch": "2019",
+    "role": "DF",
+    "img": "images/142.jpg"
+  },
+  {
+    "name": "TANIM  ",
+    "batch": "2020",
+    "role": "DF",
+    "img": "images/143.jpg"
+  },
+  {
+    "name": "AKASH DASH ",
+    "batch": "2018",
+    "role": "DF",
+    "img": "images/144.jpg"
+  },
+  {
+    "name": " JISHAD",
+    "batch": "2023",
+    "role": "DF",
+    "img": "images/145.jpg"
+  },
+  {
+    "name": "ARAFAT 2024 ",
+    "batch": "",
+    "role": "DF",
+    "img": "images/146.jpg"
+  },
+  {
+    "name": "MD MASUD ",
+    "batch": "2025",
+    "role": "DF",
+    "img": "images/147.jpg"
+  },
+  {
+    "name": "NOYON  ",
+    "batch": "2021",
+    "role": "DF",
+    "img": "images/148.jpg"
+  },
+  {
+    "name": "RD RAKIB  ",
+    "batch": "2023",
+    "role": "DF",
+    "img": "images/149.jpg"
+  },
+  {
+    "name": "KAZI MIJAN  ",
+    "batch": "2022",
+    "role": "DF",
+    "img": "images/150.jpg"
+  },
+  {
+    "name": "DELOWAR HOSSAIN",
+    "batch": "2019",
+    "role": "DF",
+    "img": "images/151.jpg"
+  },
+  {
+    "name": "A H ARIF  ",
+    "batch": "2023",
+    "role": "DF",
+    "img": "images/152.jpg"
+  },
+  {
+    "name": "MD TANIM  ",
+    "batch": "2023",
+    "role": "DF",
+    "img": "images/153.jpg"
+  },
+  {
+    "name": "SOHEL",
+    "batch": "2020",
+    "role": "DF",
+    "img": "images/154.jpg"
+  },
+  {
+    "name": " JOBAYER TANVIR",
+    "batch": "2012",
+    "role": "DF",
+    "img": "images/155.jpg"
+  },
+  {
+    "name": " MD BELAL ",
+    "batch": "2021",
+    "role": "DF",
+    "img": "images/156.jpg"
+  },
+  {
+    "name": " MASUD AHMED ",
+    "batch": "2025",
+    "role": "DF",
+    "img": "images/157.jpg"
+  },
+  {
+    "name": " MD YASIN",
+    "batch": "2019",
+    "role": "DF",
+    "img": "images/158.jpg"
+  },
+  {
+    "name": "RAJMUL ALAM  ",
+    "batch": "2022",
+    "role": "DF",
+    "img": "images/159.jpg"
+  },
+  {
+    "name": " SABBIR",
+    "batch": "2023",
+    "role": "DF",
+    "img": "images/160.jpg"
+  },
+  {
+    "name": " MD ARAFAT ",
+    "batch": "2022",
+    "role": "DF",
+    "img": "images/161.jpg"
+  },
+  {
+    "name": "MD AZIZ  ",
+    "batch": "2021",
+    "role": "DF",
+    "img": "images/162.jpg"
+  },
+  {
+    "name": "MD HANNAN  ",
+    "batch": "2025",
+    "role": "DF",
+    "img": "images/163.jpg"
+  },
+  {
+    "name": "RUMAN UDDIN  ",
+    "batch": "2012",
+    "role": "DF",
+    "img": "images/164.jpg"
+  },
+  {
+    "name": " TASIF AHMED ",
+    "batch": "2024",
+    "role": "DF",
+    "img": "images/165.jpg"
+  },
+  {
+    "name": " MD RAMJAN ",
+    "batch": "2025",
+    "role": "DF",
+    "img": "images/166.jpg"
+  },
+  {
+    "name": " MD MOHIN UDDIN ",
+    "batch": "2025",
+    "role": "DF",
+    "img": "images/168.jpg"
+  },
+  {
+    "name": " AH RUBEL",
+    "batch": "2022",
+    "role": "DF",
+    "img": "images/169.jpg"
+  },
+  {
+    "name": "MUSHFIQUL ALAM   ",
+    "batch": "2024",
+    "role": "DF",
+    "img": "images/170.jpg"
+  },
+  {
+    "name": "RAKIB ",
+    "batch": "2025",
+    "role": "DF",
+    "img": "images/171.jpg"
+  },
+  {
+    "name": " KAWSER",
+    "batch": "2022",
+    "role": "DF",
+    "img": "images/172.jpg"
+  },
+  {
+    "name": "RABIUL HOSSAIN  ",
+    "batch": "2019",
+    "role": "DF",
+    "img": "images/173.jpg"
+  },
+  {
+    "name": "IFTEKAR ",
+    "batch": "2020",
+    "role": "DF",
+    "img": "images/174.jpg"
+  },
+  {
+    "name": " TOWHIDUL ALAM ",
+    "batch": "2021",
+    "role": "DF",
+    "img": "images/175.jpg"
+  },
+  {
+    "name": "YEASIN  ",
+    "batch": "2024",
+    "role": "DF",
+    "img": "images/176.jpg"
+  },
+  {
+    "name": "DAUD ISLAM RIYAD  ",
+    "batch": "2022",
+    "role": "DF",
+    "img": "images/177.jpg"
+  },
+  {
+    "name": "MD SAKIB  ",
+    "batch": "2023",
+    "role": "DF",
+    "img": "images/178.jpg"
+  },
+  {
+    "name": "TAREK HOSSAIN  ",
+    "batch": "2022",
+    "role": "DF",
+    "img": "images/179.jpg"
+  },
+  {
+    "name": "AKIB HOSSEN  ",
+    "batch": "2025",
+    "role": "DF",
+    "img": "images/180.jpg"
+  },
+  {
+    "name": " RIYAD AHMED ",
+    "batch": "2023",
+    "role": "DF",
+    "img": "images/181.jpg"
+  },
+  {
+    "name": " MUBARAK HOSSEN ",
+    "batch": "2023",
+    "role": "DF",
+    "img": "images/182.jpg"
+  },
+  {
+    "name": " AMIN ",
+    "batch": "2024",
+    "role": "DF",
+    "img": "images/183.jpg"
+  },
+  {
+    "name": " MD RIFAT ",
+    "batch": "2023",
+    "role": "DF",
+    "img": "images/184.jpg"
+  },
+  {
+    "name": " SHAKIB",
+    "batch": "2022",
+    "role": "DF",
+    "img": "images/185.jpg"
+  },
+  {
+    "name": "ARAFADUL ISLAM RAFI ",
+    "batch": "2022",
+    "role": "DF",
+    "img": "images/186.jpg"
+  },
+  {
+    "name": " ALI AKBUR ",
+    "batch": "2025",
+    "role": "DF",
+    "img": "images/187.jpg"
+  },
+  {
+    "name": " RABIUL ISLAM RIYAD",
+    "batch": "2023",
+    "role": "DF",
+    "img": "images/188.jpg"
+  }
+
+
+]

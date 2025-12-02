@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Auction – KNBHS Alumni (Premium Panel)</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="action.css">
+</head>
+<body>
+  <header class="action-header">
+    <div class="overlay"></div>
+    <h1>Player Auction 2025</h1>
+    <p>Assign players to teams after offline bidding</p>
+  </header>
+  <section class="teams-container">
+    <h2>Teams</h2>
+    <div class="teams-grid"></div>
+  </section>
+  <section class="auction-section">
+    <h2>Premium Auction Panel</h2>
+    <p>Enter final bid amount & assign the purchased team.</p>
+    <div id="auction-panel" data-round="1">
+      <header class="topbar">
+        <h3 class="title">Live Auction</h3>
+      </header>
+      <section id="player-card" class="card glass is-active" data-player-id="" data-base="" data-status="">
+      </section>
+      <p class="result" id="action-result"></p>
+      <aside id="unsold-sidebar" class="sidebar collapsed">
+        <div class="sidebar-header">
+          <h3>Unsold (Round 1) – <span id="unsold-count">0</span></h3>
+          <button id="toggle-unsold" class="btn icon" title="Toggle unsold sidebar">
+            <i class="fa-solid fa-list"></i>
+          </button>
+        </div>
+        <ul id="unsold-list"></ul>
+      </aside>
+      <footer id="round-info" class="footer">
+        <span>Round: <strong id="round-number">1</strong></span>
+        <span class="brand">Developer by XCoder</span>
+      </footer>
+    </div>
+  </section>
+  <div id="teamModal" class="team-modal" aria-hidden="true">
+    <div class="team-modal-content">
+      <button class="close-modal" id="closeTeamModal" aria-label="Close modal">
+        <span aria-hidden="true">&times;</span>
+      </button>
+      <h2 id="teamModalTitle">Team Players</h2>
+      <p id="teamModalBalance" class="team-modal-balance"></p>
+      <div id="teamPlayersList"></div>
+      <div class="team-modal-actions">
+        <button id="downloadTeamPDF" class="btn btn-next">
+          <i class="fa-solid fa-file-arrow-down"></i> Download PDF
+        </button>
+        <small class="modal-note">
+          Download this pdf.
+        </small>
+      </div>
+    </div>
+  </div>
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+  <script src="action.js"></script>
+</body>
+</html>

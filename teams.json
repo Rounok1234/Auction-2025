@@ -1,0 +1,12 @@
+[
+  { "name": "Vintage Victors", "img": "picture/vv.jpg" },
+  { "name": "Retro Warriors", "img": "picture/RW.jpg" },
+  { "name": "Team Nostalgia", "img": "picture/TN.jpg" },
+  { "name": "Team Legends", "img": "picture/TL.jpg" },
+  { "name": "Alumni Stars", "img": "picture/AS.jpg" },
+  { "name": "Team Legacy", "img": "picture/TL1.jpg" },
+  { "name": "Golden Generation", "img": "picture/GG.jpg" },
+  { "name": "Reunion Rovers", "img": "picture/RR.jpg" },
+  { "name": "3 STAR Avengers", "img": "picture/3SA.jpg" },
+  { "name": "Supreme Titans", "img": "picture/ST.jpg" }
+]

@@ -1,0 +1,324 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+body {
+  background: #0d0f1a;
+  color: #fff;
+}
+
+
+.action-header {
+  text-align: center;
+  padding: 100px 20px;
+  background: linear-gradient(135deg, #1d2671, #c33764);
+  background-size: 300%;
+  animation: moveBG 12s ease infinite;
+}
+@keyframes moveBG {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+.action-header h1 {
+  font-size: 50px;
+  font-weight: 700;
+  text-shadow: 0 0 10px #000;
+}
+.action-header p {
+  font-size: 18px;
+  opacity: 0.9;
+  margin-top: 10px;
+}
+
+
+.teams-container {
+  width: 90%;
+  margin: 60px auto;
+  text-align: center;
+}
+.teams-container h2 {
+  font-size: 32px;
+  margin-bottom: 25px;
+  color: #f1f5f7;
+  text-shadow: 0 0 12px rgba(0,255,255,0.3);
+}
+.teams-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 20px;
+  justify-items: center;
+}
+.team-card {
+  background: rgba(255,255,255,0.15);
+  border-radius: 20px;
+  padding: 15px;
+  max-width: 220px;
+  backdrop-filter: blur(12px) saturate(150%);
+  border: 1px solid rgba(255,255,255,0.3);
+  box-shadow: 0 15px 35px rgba(0,0,0,0.25), inset 0 0 20px rgba(255,255,255,0.15);
+  cursor: pointer;
+  transition: transform 0.35s ease, box-shadow 0.35s ease;
+}
+.team-card:hover {
+  transform: translateY(-8px) scale(1.05);
+  box-shadow: 0 0 25px #00eaff, inset 0 0 25px rgba(255,255,255,0.25);
+}
+.team-img-box {
+  width: 100%;
+  height: 140px;
+  border-radius: 16px;
+  overflow: hidden;
+  margin-bottom: 12px;
+}
+.team-img-box img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.35s ease;
+}
+.team-card:hover .team-img-box img { transform: scale(1.08); }
+.team-card h3 {
+  font-size: 18px;
+  color: #edf0f2;
+  font-weight: 700;
+}
+
+
+.auction-section h2 {
+  font-size: 36px;
+  font-weight: 700;
+  color: #00eaff;
+  text-align: center;
+  margin-bottom: 10px;
+  text-shadow: 0 0 10px rgba(0,255,255,0.4);
+}
+.auction-section p {
+  font-size: 18px;
+  color: #ccc;
+  text-align: center;
+  margin-bottom: 30px;
+  opacity: 0.85;
+}
+
+#auction-panel {
+  max-width: 700px;
+  margin: 40px auto;
+  text-align: center;
+  border: 2px solid rgba(0,255,255,0.35);
+  border-radius: 25px;
+  box-shadow: 0 0 25px rgba(0,255,255,0.25);
+  padding: 24px 24px 28px;
+}
+#player-card {
+  background: rgba(255,255,255,0.08);
+  backdrop-filter: blur(10px) saturate(150%);
+  border-radius: 20px;
+  padding: 25px;
+  border: 2px solid rgba(0,255,255,0.25);
+  box-shadow: 0 0 20px rgba(0,255,255,0.2);
+  animation: pulseGlow 2s infinite alternate;
+}
+@keyframes pulseGlow {
+  from { box-shadow: 0 0 10px rgba(0,255,255,0.2); }
+  to { box-shadow: 0 0 25px rgba(0,255,255,0.4); }
+}
+
+.player-media img {
+  width: 100%;
+  height: auto;
+  border-radius: 12px;
+  margin-bottom: 15px;
+}
+.player-info h3 {
+  font-size: 24px;
+  font-weight: 700;
+  margin-bottom: 6px;
+}
+.player-info .muted {
+  font-size: 16px;
+  opacity: 0.8;
+}
+
+.action-controls {
+  margin-top: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  justify-content: center;
+}
+.price-input, .team-select {
+  padding: 10px;
+  border-radius: 10px;
+  border: none;
+  outline: none;
+  font-size: 15px;
+  background: rgba(255,255,255,0.15);
+  color: #22e6ea;
+  border: 1px solid rgba(255,255,255,0.2);
+}
+.price-input:focus, .team-select:focus {
+  border-color: #00eaff;
+  box-shadow: 0 0 10px #00eaff;
+}
+.btn {
+  width: 140px;
+  padding: 12px 0;
+  border-radius: 10px;
+  font-weight: 600;
+  cursor: pointer;
+  border: none;
+  transition: all 0.3s ease;
+}
+.btn:hover {
+  transform: scale(1.05);
+  box-shadow: 0 0 15px rgba(0,255,255,0.25);
+}
+.btn-sold {
+  background: linear-gradient(135deg, #ffe600, #ffb700);
+  color: #000;
+}
+.btn-unsold {
+  background: linear-gradient(135deg, #00f7ff, #0099ff);
+  color: #000;
+}
+.btn-next {
+  background: rgba(255,255,255,0.25);
+  color: #fff;
+}
+.btn-pause {
+  background: #444;
+  color: #eee;
+}
+
+.result {
+  margin-top: 14px;
+  font-size: 14px;
+  color: #ffdc73;
+  font-weight: 500;
+}
+
+
+#unsold-sidebar {
+  background: rgba(255,255,255,0.06);
+  backdrop-filter: blur(8px);
+  border: 1px solid rgba(255,255,255,0.2);
+  padding: 15px;
+  max-width: 300px;
+  margin: 20px auto 0;
+  border-radius: 12px;
+}
+#unsold-sidebar .sidebar-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+#unsold-sidebar h3 {
+  font-size: 18px;
+  color: #7efaff;
+}
+#unsold-list {
+  list-style: none;
+  margin-top: 10px;
+  text-align: left;
+}
+#unsold-list li {
+  padding: 6px 10px;
+  margin-bottom: 6px;
+  background: rgba(255,255,255,0.1);
+  border-radius: 6px;
+  font-size: 14px;
+}
+
+
+.footer {
+  margin-top: 16px;
+  display: flex;
+  justify-content: space-between;
+  font-size: 14px;
+  color: #cfeef1;
+}
+
+
+.team-modal {
+  display: none;
+  position: fixed;
+  top: 0; left: 0;
+  width: 100%; height: 100%;
+  background: rgba(0,0,0,0.7);
+  backdrop-filter: blur(5px);
+  justify-content: center;
+  align-items: center;
+  z-index: 2000;
+}
+.team-modal-content {
+  background: rgba(255,255,255,0.1);
+  padding: 22px;
+  width: 90%;
+  max-width: 520px;
+  border-radius: 16px;
+  color: #fff;
+  border: 1px solid rgba(255,255,255,0.2);
+  box-shadow: 0 0 20px rgba(0,255,255,0.25);
+  position: relative;
+}
+.close-modal {
+  background: transparent;
+  color: #fff;
+  font-size: 22px;
+  border: none;
+  cursor: pointer;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+
+#teamPlayersList {
+  max-height: 350px;
+  overflow-y: auto;
+  padding-right: 6px;
+}
+
+
+#teamPlayersList::-webkit-scrollbar {
+  width: 6px;
+}
+#teamPlayersList::-webkit-scrollbar-thumb {
+  background: #00eaff;
+  border-radius: 10px;
+}
+#teamPlayersList::-webkit-scrollbar-track {
+  background: rgba(255,255,255,0.1);
+}
+
+.team-player-item {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  background: rgba(255,255,255,0.08);
+  border-radius: 10px;
+  padding: 8px;
+  margin-bottom: 8px;
+}
+.team-player-img-box {
+  width: 44px;
+  height: 44px;
+  border-radius: 8px;
+  overflow: hidden;
+}
+.team-player-img-box img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.team-player-info {
+  font-size: 14px;
+}
+
+.btn.icon {
+  width: auto;
+  padding: 8px 12px;
+}
